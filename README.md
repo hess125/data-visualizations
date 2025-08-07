@@ -12,5 +12,5 @@
 
 **Website:** https://sites.google.com/view/the-importance-of-women-fit/%E9%A6%96%E9%A1%B5
 
-**Technologies Used:** Tableau, SQL, Google Sites, Replit.
+**Technologies Used:** Tableau, SQL, Google Sites, Google Sheets.
 
