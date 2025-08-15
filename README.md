@@ -10,8 +10,14 @@
 ### - The Space Missions Analysis
 **Description:** This project explores the space missions data from 1972 to 2020 and the objective is to classify variables based on type (categorical vs. numerical), scale of measurement (nominal, ordinal, interval, ratio), and determine whether they are discrete or continuous. Visualizations like histograms, box plots, and bar charts are used to uncover patterns in mission duration, frequency of launches, and mission success across different countries and companies. This forms part of a statistical methods assignment focused on real-world data exploration.
  
-**Website:** (https://sites.google.com/view/stats1hk/extra-activity-2)
+**Website:** (https://sites.google.com/view/datavizstats/extra-activity-2)
 
 **Technologies Used:** Tableau, SQL, Google Sites, Google Sheets.
 
-### - 
+### - Store Sales Data Analysis
+
+**Website:** (https://github.com/hess125/data-visualizations)
+
+### - Credit Card Fraud Transaction Statistics
+
+**Website:** (https://sites.google.com/view/datavizstats/project-2)
