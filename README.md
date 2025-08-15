@@ -16,7 +16,7 @@
 
 ### - Store Sales Data Analysis
 
-**Website:** (https://github.com/hess125/data-visualizations)
+**Website:** (https://github.com/hess125/data-visualizations/tree/project-3)
 
 ### - Credit Card Fraud Transaction Statistics
 
